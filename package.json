@@ -1,0 +1,26 @@
+{
+  "name": "teffle",
+  "version": "1.0.0",
+  "description": "A Simple discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0rzy/TEFFLE.git"
+  },
+  "keywords": [
+    "DiscordBot"
+  ],
+  "author": "0rzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0rzy/TEFFLE/issues"
+  },
+  "homepage": "https://github.com/0rzy/TEFFLE#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
