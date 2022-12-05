@@ -14,4 +14,4 @@ C'est un **bot discord** polyvalent et *open-source* **Français** est disponibl
 
 ### En quel language est-il fait ?
 
-**Teffle** est programé en *[JavaScript](https://www.google.com/?s=javasript)*, avec la librairie *[DiscordJs](https:///www.discordjs.guide)*, dont l'**API** en version ***10***
+**Teffle** est programé en **[JavaScript](https://www.google.com/search?q=javascript)**, avec la librairie **[DiscordJs](https:///www.discordjs.guide)**, dont l'**API** en version ***10***
