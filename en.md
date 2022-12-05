@@ -3,6 +3,8 @@ Disponible en [français](README.md)
 # TEFFLE
 ## DISCORD - BOT
 
+![IMAGE](TEFFLE.png)
+
 ### What is Teffle?
 It's a versatile and **open-source** *French* discord bot that manages your discord server with the ***"/"*** Command or ***Slash*** Command.
 
