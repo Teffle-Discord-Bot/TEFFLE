@@ -2,6 +2,9 @@
 
 # TEFFLE
 
+![IMAGE](TEFFLE.png)
+
+
 ## DISCORD - BOT
 
 ### C'est Quoi Teffle ?
