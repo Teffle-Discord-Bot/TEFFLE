@@ -10,7 +10,7 @@ client.commands = new Collection();
 
 //OTHER CONST
 
-const config = require("./config/config.json");
+const config = require("./config/local_config.json");
 
 const fs = require('node:fs');
 
